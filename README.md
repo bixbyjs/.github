@@ -2,4 +2,10 @@
 
 Bixby.js is a framework for building applications using [service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture).
 
-[Read more &rarr;](https://github.com/bixbyjs/.github#overview)
+### Overview
+
+#### Service Discovery
+
+- [bixby-sd](https://github.com/authnomicon/session) - Components
+  for discovering and registering services.
+
