@@ -9,7 +9,7 @@ Bixby.js is a framework for building applications using [service-oriented archit
 - [bixby-sd](https://github.com/bixbyjs/bixby-sd) - Components for discovering
   and registering services.
 
-### Database
+#### Database
 
 - [bixby-postgresql](https://github.com/bixbyjs/bixby-postgresql) - Components
   for querying PostgreSQL relational database systems.
